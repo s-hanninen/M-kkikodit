@@ -26,7 +26,11 @@ Ohjelma on koodattu ja testattu Visual Studio Codella. Ohjelma on testattu myös
 
 JOS OHJELMA EI KÄYNNISTY:
 
-Varmista, että olet sisemmässä "M-kkikodit-main"-kansiossa (jos latasit ohjelman .zip-tiedostona. Sisempi "M-kkikodit-main"-kansio on siis se, jossa on src, lib, target, ja muut kansiot ja tiedostot). OHJELMA EI KÄYNNISTY, JOS OLET ULOMMASSA "M-kkikodit-main"-KANSIOSSA. Ohjelman voi käynnistää myös suoraan komentokehotteesta. Tällöin navigoidaan polkuun jonne .zip-kansio purettiin ja sisempään "M-kkikodit-main"-kansioon. Esim. "C:\Users\stell\Downloads\M-kkikodit-main\M-kkikodit-main". Tämän jälkeen ohjelman voi käynnistää komentokehotteesta "mvn javafx:run"-komennolla.
+Varmista, että olet sisemmässä "M-kkikodit-main"-kansiossa (jos latasit ohjelman .zip-tiedostona. Sisempi "M-kkikodit-main"-kansio on siis se, jossa on src, lib, target, ja muut kansiot ja tiedostot).
+
+OHJELMA EI KÄYNNISTY, JOS OLET ULOMMASSA "M-kkikodit-main"-KANSIOSSA.
+
+Ohjelman voi käynnistää myös suoraan komentokehotteesta. Tällöin navigoidaan polkuun jonne .zip-kansio purettiin ja sisempään "M-kkikodit-main"-kansioon. Esim. "C:\Users\stell\Downloads\M-kkikodit-main\M-kkikodit-main". Tämän jälkeen ohjelman voi käynnistää komentokehotteesta "mvn javafx:run"-komennolla.
 
 JOS LATAAT OHJELMAN .ZIP-TIEDOSTONA:
 
